@@ -1,0 +1,1 @@
+In this I have created a neural network model which recognizes the handwritten digits from 0-9. I have trained and tested the model on the MNIST dataset of the tensorflow module. My model has achieved an accuracy of 97.18%.
