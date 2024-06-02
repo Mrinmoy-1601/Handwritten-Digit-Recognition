@@ -1,1 +1,1 @@
-In this I have created a convolutional network model which recognizes the handwritten digits from 0-9. I have trained and tested the model on the MNIST dataset of the tensorflow module. My model has achieved an accuracy of 0.988.
+In this I have created a convolutional network model which recognizes the handwritten digits from 0-9. I have trained and tested the model on the MNIST dataset of the tensorflow module. I have implemented Conv2d layers, MaxPooling 2D layers, Dropout Layers and Dense layers in my model and have achieved an accuracy of 0.988.
